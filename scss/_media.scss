@@ -367,6 +367,9 @@
     .blog-one__reply {
         margin-left: 0;
     }
+    .contact-slider__img{
+        object-fit: contain;
+    }
 }
 
 @media (max-width: 375px){
